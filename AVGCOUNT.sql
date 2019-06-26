@@ -1,0 +1,1 @@
+select avg(COMM),count(COMM) from EMP where deptno=10;

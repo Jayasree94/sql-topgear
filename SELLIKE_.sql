@@ -1,0 +1,1 @@
+Select ENAME from EMP where ENAME  Like '_%';

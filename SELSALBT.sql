@@ -1,0 +1,1 @@
+select * from EMP where SAL NOT BETWEEN 2000 AND 3000;

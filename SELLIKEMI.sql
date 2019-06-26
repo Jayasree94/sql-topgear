@@ -1,0 +1,1 @@
+SELECT ENAME from EMP where ENAME LIKE '%MI%';

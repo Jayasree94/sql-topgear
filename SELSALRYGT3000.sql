@@ -1,0 +1,1 @@
+select * from EMP where HIREDATE>('01-JAN-1981');

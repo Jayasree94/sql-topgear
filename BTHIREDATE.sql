@@ -1,0 +1,1 @@
+select * from EMP WHERE JOB='CLERK' AND DEPTNO=10;

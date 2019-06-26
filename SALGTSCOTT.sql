@@ -1,0 +1,1 @@
+select * from EMP WHERE SAL>(select SAL from EMP where  ENAME='SCOTT');

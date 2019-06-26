@@ -1,0 +1,1 @@
+select * from EMP where empno NOT IN(select MGR from EMP);

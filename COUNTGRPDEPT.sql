@@ -1,0 +1,1 @@
+select sum(SAL) from EMP GROUP BY DEPTNO;

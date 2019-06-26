@@ -1,0 +1,1 @@
+select EMPNO,ENAME,SAL from EMP where SAL>3000;

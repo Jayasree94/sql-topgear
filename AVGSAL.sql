@@ -1,0 +1,1 @@
+select MAX(SAL),MIN(SAL),AVG(SAL) from EMP;

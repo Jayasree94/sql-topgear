@@ -1,0 +1,2 @@
+Update EMPLOYEE set designation='MANAGER' WHERE EMPNO='&EMPNO';
+COMMIT;

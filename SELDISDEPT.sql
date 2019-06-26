@@ -1,0 +1,1 @@
+select DISTINCT DEPTNO from EMP ;

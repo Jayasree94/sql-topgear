@@ -1,0 +1,1 @@
+select * FROM EMP where sal> (select max(sal) FROM EMP where deptno=30);

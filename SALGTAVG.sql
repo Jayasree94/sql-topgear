@@ -1,0 +1,1 @@
+select * from EMP where sal>(select avg(sal) from EMP );
